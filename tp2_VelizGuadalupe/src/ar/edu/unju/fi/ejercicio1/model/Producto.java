@@ -8,7 +8,7 @@ public class Producto {
 	private Categoria categoria;
 
 	public Producto(String codigo, String descripcion, Double precioUnitario, origenFabricacion origen,
-			Categoria categoria) {
+			Categoria categoria) { 
 		super();
 		this.codigo = codigo;
 		this.descripcion = descripcion;

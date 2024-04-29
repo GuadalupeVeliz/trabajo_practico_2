@@ -14,7 +14,6 @@ public class Main {
 		Scanner sc = new Scanner (System.in);
 		ArrayList<Producto> productos = new ArrayList<>();
 		int opcion=0;
-		
 		while(opcion!=4) {
 			try {
 				mostrarMenu();
