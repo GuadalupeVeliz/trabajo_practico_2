@@ -1,4 +1,4 @@
-package r.edu.unju.fi.ejercicio1.main;
+package ar.edu.unju.fi.ejercicio1.main;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
