@@ -77,4 +77,10 @@ public class Producto {
 		TELEFONIA, INFORMATICA, ELECTROHOGAR, HERRAMIENTAS
 	}
 
+	@Override
+	public String toString() {
+		return "Producto [codigo=" + codigo + ", descripcion=" + descripcion + ", precioUnitario=" + precioUnitario
+				+ ", origen=" + origen + ", categoria=" + categoria + ", estado=" + estado + "]";
+	}
+	
 }
